@@ -1,0 +1,12 @@
+{
+  "environment": "uat",
+  "browser": "Chrome", // Options: Chrome, Edge, Firefox
+  "waitTimeout": "10000", //Wait Timeout in milliseconds
+
+  "urls": {
+    "staging": "https://demoqa.com/",
+    "uat": "https://demoqa.com/",
+    "prod": "https://demoqa.com/",
+    "qa": "https://demoqa.com/"
+  }
+}
